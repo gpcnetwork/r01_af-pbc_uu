@@ -2,7 +2,7 @@
 
 Funding agency: NIH/NHLBI <br/>
 Funding period: 04/2025 - 03/2030 <br/>
-PI: [Benjamin Steinberg](emailto:benjamin.steinberg@cuanschutz.edu) <br/>
+PI: [Benjamin Steinberg](mailto:benjamin.steinberg@cuanschutz.edu) <br/>
 Leading Site: University of Utah
 Linkage Broker: University of Missouri
 Project Number: [1R01HL177105](https://reporter.nih.gov/search/l0iLfm0NgEeC6oUEEGsBnQ/project-details/11025957) <br/>
@@ -37,15 +37,15 @@ PCORnet EHR Data use agreement template and data dictionary can be found below:
 
 # Study Team 
 Principle Investigator
-- [Benjamin Steinberg](emailto:benjamin.steinberg@cuanschutz.edu)
+- [Benjamin Steinberg](mailto:benjamin.steinberg@cuanschutz.edu)
 
 University of Utah (leading site)
-- [Mark Yandell](emailto:myandell@genetics.utah.edu) - Site PI, Co-I
-- [Haddy Bah](emailto:haddy.bah@utah.edu) - PM
+- [Mark Yandell](mailto:myandell@genetics.utah.edu) - Site PI, Co-I
+- [Haddy Bah](mailto:haddy.bah@utah.edu) - PM
 
 University of Missouri (linkage broker)
-- [Christie Spinka](emailto:spinkac@umsystem.edu) - Site PI
-- [Xing Song](emailto:xsm7f@umsystem.edu) - Co-I
+- [Christie Spinka](mailto:spinkac@umsystem.edu) - Site PI
+- [Xing Song](mailto:xsm7f@umsystem.edu) - Co-I
 
 Participating GPC Sites (DROC-approval dependent)
 - [University of Utah]()
