@@ -2,7 +2,7 @@
 
 Funding agency: NIH/NHLBI <br/>
 Funding period: 04/2025 - 03/2030 <br/>
-PI: Benjamin Stienberg <br/>
+PI: [Benjamin Steinberg](emailto:benjamin.steinberg@cuanschutz.edu) <br/>
 Leading Site: University of Utah
 Linkage Broker: University of Missouri
 Project Number: [1R01HL177105](https://reporter.nih.gov/search/l0iLfm0NgEeC6oUEEGsBnQ/project-details/11025957) <br/>
@@ -47,7 +47,9 @@ University of Missouri (linkage broker)
 - [Christie Spinka](emailto:spinkac@umsystem.edu) - Site PI
 - [Xing Song](emailto:xsm7f@umsystem.edu) - Co-I
 
-Participating GPC Sites
+Participating GPC Sites (DROC-approval dependent)
 - [University of Utah]()
 - [University of Missouri]() 
+- []()
+- []()
 
